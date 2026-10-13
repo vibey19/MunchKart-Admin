@@ -33,7 +33,7 @@ export const POST = async (
     line_items.push({
       quantity: item.qty,
       price_data: {
-        currency: "USD",
+        currency: "INR",
         product_data: {
           name: item.name,
         },
