@@ -1,8 +1,8 @@
-import { getGraphTotalRevenue } from "@/actions/get-graph-total-tevenue";
+import { getGraphTotalRevenue } from "@/actions/get-graph-total-revenue";
 import { getTotalProducts } from "@/actions/get-total-products";
 import { getTotalRevenue } from "@/actions/get-total-revenue";
 import { getOrderTotalRevenueByCategory } from "@/actions/get-total-revenue-by-category";
-import { getOrderPaymentStatusTotalRevenue } from "@/actions/get-total-revenue-by-order-status.ts";
+import { getOrderPaymentStatusTotalRevenue } from "@/actions/get-total-revenue-by-order-status";
 import { getOrderStatusTotalRevenue } from "@/actions/get-total-revenue-order-status";
 import { getTotalSales } from "@/actions/get-total-sales";
 import { Heading } from "@/components/heading";
